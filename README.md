@@ -12,6 +12,11 @@ and design system reference.
 Created from production operating patterns, rewritten as a self-contained public
 package. No Workspace dependencies — works in any repo with any agent.
 
+> **Deep-dive write-up:** *Utility Skills — open-source tools for AI agents*
+> — the research article behind this repo, covering each skill, its
+> production origin, and the public/private boundary.
+> [Read it on gregshevchenko.com](https://gregshevchenko.com/research/utility-skills/).
+
 ## Table of Contents
 
 - [Quick Start](#quick-start)
